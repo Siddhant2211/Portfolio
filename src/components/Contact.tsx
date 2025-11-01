@@ -40,7 +40,7 @@ const socialLinks = [
   {
     icon: ExternalLink,
     name: "Portfolio",
-    url: "https://dhruv-gupta-portfolio.netlify.app/",
+    url: "https://sidiiitr.vercel.app/",
     color: "primary",
   },
 ];
